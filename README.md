@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wolfgangyu
 - 👀 我是台灣電信公司的SaaS服務產品經理，專長是產品與專案管理、圖表視覺化等。
-- 🌱 我正在學習 Hugo、Netlity、Dendron、GitHub與VS code，希望可以利用這些工具或服務撰寫產品文件與管理product roadmap。
+- 🌱 我正在學習 Cursor、Hugo、Netlity、GitHub與VS code，希望可以利用這些工具或服務撰寫產品文件與管理product roadmap。
 - 📫 您可以透過 ciyu@fareastone.com.tw 與我聯繫。
 
 <!---
