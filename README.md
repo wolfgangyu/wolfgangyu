@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @wolfgangyu
-- 👀 我是台灣電信公司的SaaS服務產品經理，專長是產品與專案管理、圖表視覺化等。
-- 🌱 我正在學習 Vibe coding，對於使用這個技術能夠讓想法中的藍圖成為具體的產出感到非常興奮。
-- 📫 您可以透過 ciyu@fareastone.com.tw 與我聯繫。
+- 👋 Hi, I'm @wolfgangyu
+- 👀 電信業 PM x AI 實作者 ｜ 專長產品與專案管理、資料視覺化
+- 🛠 過去空有想法無法實作，AI 時代來臨後，我把點子落地，也負責把有趣的開源專案台灣本地化
+- 🇹🇼 專注台灣市場的產品思維與在地實踐
+- 📌 [wolfgang/lab-drawer](https://github.com/wolfgangyu/lab-drawer) — Claude Code Skills 集合（humanizer / guardrail / talk-normal）
+- 🌐 [wolfgang.tw](https://wolfgang.tw/) ｜ [Threads](https://www.threads.com/@chi_ming.yu) ｜ [X](https://x.com/wolfgangyu)
 
 <!---
 wolfgangyu/wolfgangyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
