@@ -4,6 +4,6 @@
 
 電信 PM × AI 實作者。興趣是讓 AI agent 真的跑起來，以及折騰 self-hosted infra。
 
-🛠️ wolfgang/lab-drawer — Claude Code Skills 集合
+🛠️ [wolfgang/lab-drawer](https://github.com/wolfgangyu/lab-drawer) — Claude Code Skills 集合
 
-📍 台北 | 🔗 wolfgang.tw | Threads @chi_ming.yu
+📍 台北 | 🔗 [wolfgang.tw](https://wolfgang.tw) | Threads [@chi_ming.yu](https://www.threads.com/@chi_ming.yu)
